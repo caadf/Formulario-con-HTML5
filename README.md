@@ -1,5 +1,5 @@
 ### Formulario
-Crear un formulario con HTML5, CSS y bootstrap
+Crear un formulario con HTML5, CSS y Bootstrap
 
  #### Fundamentos :
 
