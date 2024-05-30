@@ -3,6 +3,6 @@ Crear un formulario con HTML5, CSS y Bootstrap
 
  #### Fundamentos :
 
-- Asegurarse de que todas las entradas se utilicen correctamente: entradas de tipo fecha, email, número, texto, etc.
+- Se debe asegurar de que todas las entradas se utilicen correctamente: entradas de tipo fecha, email, número, texto, etc.
 - Utilizar etiquetas input 
-- Con Bootstrap:  practicar todas las clases que brinda para diseñar sus formularios.
+- Con Bootstrap:  practicar todas las clases que brinda para diseñar formularios.
